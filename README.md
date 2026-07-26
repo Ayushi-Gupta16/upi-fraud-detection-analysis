@@ -193,14 +193,8 @@ Contains project datasets and supporting files.
 ---
 
 # 📷 Dashboard Preview
-
-> **Dashboard Image**
-
-Place the dashboard image inside the repository and update the path below.
-
-```markdown
 ![Dashboard](dashboard_export/dashboard.png)
-```
+
 
 ---
 
