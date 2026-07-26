@@ -13,13 +13,6 @@
 
 ### **Business Intelligence | Fraud Analytics | Risk Monitoring | Power BI Dashboard**
 
-**Developed by**
-
-# **Ayushi Gupta**
-
-### **Business Analyst**
-**Excel | SQL | Power BI | Statistics | Python | EDA**
-
 </div>
 
 ---
